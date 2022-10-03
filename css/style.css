@@ -100,3 +100,20 @@ p{
     height: 50px;
     background-color: aquamarine;
 }
+
+footer{
+    background-color: darkblue;
+}
+.container-footer{
+    display: flex;
+    width: 1024px;
+    margin: 0 auto;
+    justify-content: center;
+    border: solid 1px;
+}
+.div-foot{
+    width: 100px;
+    height: 300px;
+    background-color: aliceblue;
+    border: solid 1px;
+}
